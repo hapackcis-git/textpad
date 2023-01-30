@@ -4,8 +4,6 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hapackcis-git" alt="hapackcis-git" /></a> </p>
-
 - 🔭 I’m currently working on [Event Management System](https://yuvammahautsav.mmumullana.org/registration/login)
 
 - 🌱 I’m currently learning **AWS,Devops**
