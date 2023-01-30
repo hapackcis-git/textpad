@@ -1,23 +1,8 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-14336
-Fork on GitHub
-3806
 
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Amit Pradhan</h1>
 <h3 align="center">A passionate software developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hapackcis-git&label=Profile%20views&color=0e75b6&style=flat" alt="hapackcis-git" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hapackcis-git" alt="hapackcis-git" /></a> </p>
 
