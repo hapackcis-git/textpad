@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Amit Pradhan</h1>
 <h3 align="center">A passionate software developer</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hapackcis-git&label=Profile%20views&color=0e75b6&style=flat" alt="hapackcis-git" /> </p>
+
 
 
 - 🔭 I’m currently working on [Event Management System](https://yuvammahautsav.mmumullana.org/registration/login)
